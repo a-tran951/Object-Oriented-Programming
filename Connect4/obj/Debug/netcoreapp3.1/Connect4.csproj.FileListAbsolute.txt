@@ -1,0 +1,13 @@
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.AssemblyInfoInputs.cache
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.AssemblyInfo.cs
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\Connect4\Connect4\bin\Debug\netcoreapp3.1\Connect4.exe
+C:\Users\phoen\source\repos\Connect4\Connect4\bin\Debug\netcoreapp3.1\Connect4.deps.json
+C:\Users\phoen\source\repos\Connect4\Connect4\bin\Debug\netcoreapp3.1\Connect4.runtimeconfig.json
+C:\Users\phoen\source\repos\Connect4\Connect4\bin\Debug\netcoreapp3.1\Connect4.runtimeconfig.dev.json
+C:\Users\phoen\source\repos\Connect4\Connect4\bin\Debug\netcoreapp3.1\Connect4.dll
+C:\Users\phoen\source\repos\Connect4\Connect4\bin\Debug\netcoreapp3.1\Connect4.pdb
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.dll
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.pdb
+C:\Users\phoen\source\repos\Connect4\Connect4\obj\Debug\netcoreapp3.1\Connect4.genruntimeconfig.cache
